@@ -1,4 +1,4 @@
 class Greet < ApplicationRecord
-    #validations
-    validates :massage, presence:true
+  # validations
+  validates :massage, presence: true
 end
