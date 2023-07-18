@@ -4,6 +4,9 @@
   <img src="./personal-branding/adarsh-logo.png" alt="logo" width="140"  height="auto" />
 </div>
 
+# Frontend repo
+[GitHub Repository](https://github.com/PowerLevel9000/react-rails-frontend)
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
