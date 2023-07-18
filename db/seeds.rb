@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 #   Character.create(name: "Luke", movie: movies.first)
+
+Greet.create(massage: "Hello React")
+Greet.create(massage: "Hello Rails")
+Greet.create(massage: "Hello require changes")
+Greet.create(massage: "Hello CR")
+Greet.create(massage: "Hello IDK")
